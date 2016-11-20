@@ -17,7 +17,7 @@ This psql database setup sets up a database and then provides the following func
 3.  Download the git repository [here](https://github.com/acct252000/udacity_relational_database) by clicking on the green button.  Download to a file accessible by your vagrant virtual machine.
 4.  Launch the vagrant machine by typing `vagrant up.` in the command line from the vagrant directory.
 5.  Type `vagrant ssh.`
-6.  Type psql.
+6.  Type `psql`.
 7.  Create a database by typing `create database tournament;`.
 8.  Connect to the tournament database by typing `\connect tournament`.
 9.  Copy and paste the first create table statement from the tournament.sql file into the command line and hit enter.
