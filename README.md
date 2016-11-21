@@ -25,3 +25,6 @@ This psql database setup sets up a database and then provides the following func
 11.  Type `\q` to exit psql.
 12.  Type `python tournament_test.py` to run test file.
 
+### Attributions
+
+* Sorting a python list in descending order from [stackoverflow](http://stackoverflow.com/questions/10695139/sort-a-list-of-tuples-by-2nd-item-integer-value)
